@@ -1,0 +1,246 @@
+
+.white-text {
+    color: white;
+}
+
+.black-background {
+    background: white;
+}
+
+.white-background {
+    background: white;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.max-width-300 {
+    max-width: 300px;
+}
+
+.padding-left-42percent {
+    padding-left: 42%;
+}
+
+.padding-left-40percent {
+    padding-left: 40%;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+#login {
+    background: #427c8b;
+    border-color: #427c8b;
+    border-radius: 15px;
+    width: 90px;
+    height: 35px;
+    padding: 5px;
+}
+
+.padding_all_5px {
+    padding: 5px;
+}
+
+.padding_top_5percent {
+    padding-top: 5%;
+}
+
+
+.padding_right_5percent {
+    padding-right: 5%;
+}
+
+.padding_top_15_percent {
+    padding-top: 15%;
+}
+.padding-left-15-percent {
+    padding-left: 15%;
+}
+.padding_top_25_percent {
+    padding-top: 25%;
+}
+
+.padding-left-20percent {
+    padding-left: 20%;
+}
+.padding-left-22percent {
+    padding-left: 22%;
+}
+.padding-left-23percent {
+    padding-left: 23%;
+}
+.padding-left-5percent {
+    padding-left: 5%;
+}
+
+.padding-top-15px {
+    padding-top: 15px
+}
+
+.chart-sizes-left {
+    width: 25%;
+    height: 200px;
+    float: left;
+}
+.chart-sizes-pquater {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.left-pane {
+    width: 50%;
+    height: 5%;
+    float: left;
+}
+
+.right-pane {
+    width: 49.9%;
+    height: 5%;
+    position: relative;
+    float: right;
+}
+
+.div-chart-size {
+    width: 450px;
+}
+
+
+.top-pane {
+    width:100%;
+    padding-top: 70px;
+}
+
+.header-style {
+    background-color: white;
+    width:  100%;
+    height: 90px;
+    z-index: 900;
+    position: fixed;
+    padding-top: 20px;
+}
+
+.logo-style {
+    padding-left: 5px;
+    margin: 3px 5px 0 0;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    height: 90px;
+}
+
+.logo-text {
+    font-weight: 700;
+    color: white;
+    padding-left: 10px;
+}
+
+.menu-items {
+    padding-top: 20px;
+    padding-left: 20%;
+}
+
+.menu-items-styling {
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.user-labels {
+    padding-top: 30px;
+    padding-right: 5%;
+    font-size: 20px;
+    font-weight: 700;
+    float: right;
+    color: black;
+}
+
+.body-logo-style {
+    height: 150px;
+    width: 250px;
+}
+
+.link-styles {
+    color:black;
+    font-size: 20px;
+}
+
+.chart-titles-div {
+    padding-top: 15%;    
+}
+
+.chart-title1 {
+    padding-left: 25%;
+}
+
+.chart-title2 {
+    padding-left: 16%;
+}
+
+.chart-title3 {
+    padding-left: 14%;
+}
+
+.chart-title-q2-1 {
+    padding-left: 26%;
+}
+
+.chart-title-q2-2 {
+    padding-left: 10%;
+}
+
+.chart-title-q2-3 {
+    padding-left: 10%;
+}
+
+.move-graph-center {
+    padding-left: 18%;
+}
+
+.move-graph-title-center {
+    padding-left: 41%;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #427c8b;
+}
+
+.left-table {
+    width: 25%;
+    height: 200px;
+    float: left;
+    padding: 25px;
+}
+
+.cart-table {
+    max-width: 300px;
+    padding-left: 20%;
+    padding-top: 15%;
+}
+
+.cart-icons {
+    max-width: 60px;
+    height: 30px;
+    padding: 3px;
+}
+
+.cart-button {
+    background: #427c8b;
+    border-color: #427c8b;
+    border-radius: 15px;
+    width: 90px;
+    height: 35px;
+    padding: 5px;
+}
+
+.redeem-div {
+    padding-left: 300px;
+    padding-bottom: 10px;
+}
